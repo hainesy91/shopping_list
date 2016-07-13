@@ -1,6 +1,9 @@
 h1#header {
   text-align: center;
   font-family: 'Fira Sans', sans-serif;
+  padding: 15px;
+  font-size: 26px;
+  -webkit-animation: rubberBand 1s;
 }
 
 header {
