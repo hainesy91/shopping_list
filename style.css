@@ -11,9 +11,11 @@ header {
 }
 
 div#container {
- 
+  padding: 80px;
 }
 
 li.listItem {
   border: 1px solid red;
+  padding: 10px;
+  margin-bottom: 10px;
 }
