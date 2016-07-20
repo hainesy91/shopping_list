@@ -14,6 +14,11 @@ div#container {
   padding: 80px;
 }
 
+input#addToList {
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
 li.listItem {
   border: 1px solid red;
   padding: 10px;
