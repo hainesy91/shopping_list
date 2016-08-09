@@ -19,7 +19,7 @@ input#addToList {
   margin-bottom: 20px;
 }
 
-li.listItem {
+.listItem {
   border: 1px solid red;
   padding: 10px;
   margin-bottom: 10px;
