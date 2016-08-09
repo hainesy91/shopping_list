@@ -1,13 +1,13 @@
-h1#header {
-  text-align: center;
-  font-family: 'Fira Sans', sans-serif;
-  padding: 15px;
-  font-size: 26px;
+h1#title {
   -webkit-animation: rubberBand 1s;
 }
 
 header {
   background-color: pink;
+  text-align: center;
+  font-family: 'Fira Sans', sans-serif;
+  padding: 15px;
+  font-size: 26px;
 }
 
 div#container {
